@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TM App</string>
+    <string name="event_screen_title">TM Event List</string>
+    <string name="generic_error">Oops! Something went wrong and it wasn\'t me! Check your network and retry.</string>
+    <string name="try_again">Try again</string>
+    <string name="no_event_msg">No events found!</string>
+    <string name="offline_msg">Looks like you are offline. Check your connection and refresh.</string>
+    <string name="refresh">Refresh</string>
+</resources>
