@@ -4,6 +4,8 @@ Android application designed to retrieves event data from a single endpoint and 
 easy-to-navigate list. Additionally, it offers a text search functionality to find specific events
 shown in the list.
 
+<img src="https://github.com/itechevo/tm_event_app/blob/main/screenshots/eventscreen.png" width="300"> <img src="https://github.com/itechevo/tm_event_app/blob/main/screenshots/offline.png" width="300"> <img src="https://github.com/itechevo/tm_event_app/blob/main/screenshots/search.png" width="300">
+
 ## Implementation Details
 
 I have used MVVM and clean architecture design pattern. I've divided the project into distinct
